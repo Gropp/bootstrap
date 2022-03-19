@@ -1,0 +1,35 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #005C70;
+}
+
+.quem-somos {
+    background-color: #008B8B;
+    color: white;
+}
+
+.parceiros {
+    background-color: #E3F7D3;
+}
+
+.servicos {
+    background-color: #A5AE9D;
+}
+
+.bg-footer{
+    background-color: #2F4858;
+    font-size: small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+
+}
